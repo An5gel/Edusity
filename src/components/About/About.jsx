@@ -1,7 +1,7 @@
 
 import React from 'react'
 import './About.css'
-import about_img from '../../assets/edusity_assets/about.png'
+import about_img from '../../assets/Images/people.png'
 import play_icon from '../../assets/edusity_assets/play-icon.png'
 
 // eslint-disable-next-line react/prop-types
@@ -13,11 +13,10 @@ const About = () => {
             <img src={play_icon} alt="" className='play-icon'/>
         </div>
         <div className="about-right">
-            <h3>ABOUT UNIVERSITY</h3>
-            <h2>Nuturing Tommorrow's leaders today</h2>
-            <p>Edusity University is a premier institution offering a wide range of academic programs, including Master's degrees, graduation degrees, and post-graduation degrees. Our university is committed to providing high-quality education that empowers students to excel in their chosen fields and make meaningful contributions to society.</p>
-            <p>At Edusity, we take pride in our diverse and experienced faculty who are dedicated to delivering comprehensive and industry-relevant curriculum. Our programs are designed to equip students with the knowledge, skills, and practical experience needed to succeed in today's competitive job market.</p>
-            <p>As you explore our website, you'll discover a vibrant learning community that fosters innovation, collaboration, and lifelong learning. Join us at Edusity University and embark on a transformative educational journey that prepares you for a successful career and a fulfilling life ahead.</p>
+            <h3>ABOUT TEK JUICE FOUNDATION</h3>
+            <h2>Making this world a better place</h2>
+            <p>We are based in Kampala, Central Region, Uganda. Our non-profit organization is dedicated to serving our community with a range of vital services.</p>
+            <p>We work to improve the lives of individuals and families through education, health support, and community initiatives. Our team is committed to making a positive impact, one step at a time.</p>
         </div>
     </div>
   )

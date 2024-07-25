@@ -1,9 +1,9 @@
 import React from 'react'
 import './Campus.css'
-import gallery_1 from '../../assets/edusity_assets/gallery-1.png'
-import gallery_2 from '../../assets/edusity_assets/gallery-2.png'
-import gallery_3 from '../../assets/edusity_assets/gallery-3.png'
-import gallery_4 from '../../assets/edusity_assets/gallery-4.png'
+import gallery_1 from '../../assets/Images/hero1.png'
+import gallery_2 from '../../assets/Images/people.png'
+import gallery_3 from '../../assets/Images/hero1.png'
+import gallery_4 from '../../assets/Images/people.png'
 import white_arrow from '../../assets/edusity_assets/white-arrow.png'
 
 const Campus = () => {

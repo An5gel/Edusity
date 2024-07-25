@@ -39,10 +39,10 @@ const Testimonials = () => {
                             <img src={user_1} alt="" />
                             <div>
                                 <h3>Loveness Peter</h3>
-                                <span>Edusity, USA</span>
+                                <span>Kampala, Uganda</span>
                             </div>
                         </div>
-                        <p>Enrolling in Edusity University's marketing program was a game-changer for my career. The practical insights, industry connections, and career support services were instrumental in helping me transition smoothly into the marketing profession. I highly recommend Edusity for aspiring marketers.</p>
+                        <p>Joining the Tek Juicee Foundation has been a game-changer for me. The foundations dedication to empowering individuals through technology and education is outstanding. The training programs and workshops are top-notch, providing the skills and confidence needed to thrive in the tech industry.</p>
                     </div>
                 </li>
                 <li>
@@ -51,10 +51,10 @@ const Testimonials = () => {
                             <img src={user_2} alt="" />
                             <div>
                                 <h3>John Doe</h3>
-                                <span>Edusity, USA</span>
+                                <span>Mukono, Uganda</span>
                             </div>
                         </div>
-                        <p>As a doctoral student at Edusity University, I found the research-focused environment stimulating and enriching. The university's commitment to academic excellence and innovation in psychology education enabled me to conduct groundbreaking research and contribute meaningfully to my field.</p>
+                        <p>Joining the Tek Juice Foundation has been a game-changer for me. The foundations dedication to empowering individuals through technology and education is outstanding. The training programs and workshops are top-notch, providing the skills and confidence needed to thrive in the tech industry.</p>
                     </div>
                 </li>
                 <li>
@@ -63,10 +63,10 @@ const Testimonials = () => {
                             <img src={user_3} alt="" />
                             <div>
                                 <h3>Michelle Johnson</h3>
-                                <span>Edusity, USA</span>
+                                <span>Kampal, Uganda</span>
                             </div>
                         </div>
-                        <p>Enrolling in Edusity University's marketing program was a game-changer for my career. The practical insights, industry connections, and career support services were instrumental in helping me transition smoothly into the marketing profession. I highly recommend Edusity for aspiring marketers.</p>
+                        <p>Joining the Tek Juice Foundation has been a game-changer for me. The foundations dedication to empowering individuals through technology and education is outstanding. The training programs and workshops are top-notch, providing the skills and confidence needed to thrive in the tech industry.</p>
                     </div>
                 </li>
                 <li>
@@ -75,10 +75,10 @@ const Testimonials = () => {
                             <img src={user_4} alt="" />
                             <div>
                                 <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <span>Mbarara, Uganda</span>
                             </div>
                         </div>
-                        <p>Enrolling in Edusity University's marketing program was a game-changer for my career. The practical insights, industry connections, and career support services were instrumental in helping me transition smoothly into the marketing profession. I highly recommend Edusity for aspiring marketers.</p>
+                        <p>Joining the Tek Juicee Foundation has been a game-changer for me. The foundations dedication to empowering individuals through technology and education is outstanding. The training programs and workshops are top-notch, providing the skills and confidence needed to thrive in the tech industry.</p>
                     </div>
                 </li>
             </ul>

@@ -10,7 +10,7 @@
     color: #676767;
 }
 .contact-col h3{
-    color: #000F38;
+    color: #df671d;
     font-weight: 500;
     font-size: 25px;
     display: flex;
@@ -33,7 +33,11 @@
 .contact-col ul li img{
     width: 25px;
     margin-right: 10px;
+    color: #df671d;
 
+}
+.icon{
+    color: #df671d;
 }
 .contact form input, .contact form textarea{
     display: block;

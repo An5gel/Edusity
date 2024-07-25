@@ -39,9 +39,9 @@ const Contact = () => {
             <h3>Send us a message <img src={msg_icon} alt="" /></h3>
             <p>Feel free to reach out to us with any inquiries, feedback, or collaboration opportunities. We value your input and look forward to hearing from you!</p>
             <ul>
-                <li> <img src={mail_icon} alt="" /> edusity@gmail.com</li>
+                <li> <img className='icon' src={mail_icon} alt="" /> tekjuicefoundation@gmail.com</li>
                 <li> <img src={phone_icon} alt="" /> +256 781 056 005</li>
-                <li> <img src={location_icon} alt="" />123 University Avenue Suite 101 Cityville, State 12345 Country: Uganda</li>
+                <li> <img src={location_icon} alt="" />Kololo 1 hill drive Country: Uganda</li>
             </ul>
         </div>
         <div className="contact-col">
